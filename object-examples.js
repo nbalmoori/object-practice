@@ -16,3 +16,9 @@ var animal = {
   age: 5
   location: "Africa"
 }
+
+var customer = {
+  name: "Karen"
+  purchase: ["cheese", "milk", "eggs"]
+  date: "12/14/2022"
+}
