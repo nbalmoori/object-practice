@@ -9,3 +9,10 @@ var car = {
   model: "F150",
   year: 2017
 }
+
+var animal = {
+  species: "mammal"
+  type: "lion"
+  age: 5
+  location: "Africa"
+}
